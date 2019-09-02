@@ -1,5 +1,5 @@
 # QR-Gen
-Quarterly Report Generator developed during my internship in Saudi Aramco. Can be customized for your own report.
+Quarterly Report Generator developed internally during my internship in Saudi Aramco (Which has an extremely strict IT limitation, many nights were spent installing libraries offline in Anaconda by copy and pasting). QR Gen saved our unit a week time of editing and staying overtime. Can be customized to generate your own report in seconds if it follows a consistent structure!
 
 Features:
 * Generation of Word documents through Python-Docx
