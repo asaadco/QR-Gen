@@ -17,8 +17,9 @@ pip install req.txt
 
 QRGEN requires an Excel file in the same folder that contains (in any order) 
 ```
-ID (Submission) --- Submission Type --- Departments --- Body --- Title --- Inventor
+ID (Submission) --- Submission Type --- Departments --- Department --- Body --- Title --- Inventor
 ```
+Note: Inventor can be many people
 and an attachment folder directory that contain folders with each folder representing a submission ID
 * Employee's photo image named after the employee's name (Or close enough if Fuzzy Matching is enabled)
 * Invention idea images named in numeric sequence starting from 1 (1, 2, 3, ...)
@@ -41,13 +42,14 @@ structured in the following way
 Once you have the following requirements met, you 
 
 
-## Run
+## Usage
 
-In order to run QRGEN, (Python >= 3.60)
+In order to start QRGEN, run in the cmd:
 ```
 python UI.py
 ```
 
+You have to select an Excel DB file, the attachment directory and check the desired optional features before pressing Generate. The output are Word Document files that are divided into two types (Idea or Success Story).
 ## Built With
 
 * [Python-docx](https://python-docx.readthedocs.io/en/latest/) - The Word Document generator library
