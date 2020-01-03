@@ -58,13 +58,6 @@ You have to select an Excel DB file, the attachment directory and check the desi
 * [dlib](https://pypi.org/project/dlib/) - Cropping employee faces out of images
 * [PyQt5](https://pypi.org/project/PyQt5/) - QRGen User Interface
 
-
-
-## Author
-
-* **Asaad AlGhamdi** - [asaadco](https://github.com/asaadco)
-
-
 ## Acknowledgments
 
 I'd like to thank Amjad & Aisha for their support in delivering this project. This project along with two other internal projects have caused cost savings of $500,000 annually by streamlining Saudi Aramco's innovation unit business processes.
