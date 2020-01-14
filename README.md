@@ -1,5 +1,5 @@
 # QR-Gen
-
+![QRGEN Interface](https://user-images.githubusercontent.com/31670621/72321516-253da980-36b5-11ea-912f-f60352544773.PNG)
 Quarterly Report Generator developed internally during my internship in Saudi Aramco (Which has an extremely strict IT limitation, many nights were spent installing libraries offline in Anaconda by copy and pasting). QR Gen saved our unit a week time of editing and staying overtime. Can be customized to generate your own report in seconds if it follows a consistent structure!
 
 ## Getting Started
